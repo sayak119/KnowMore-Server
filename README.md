@@ -24,7 +24,7 @@ For Client (Chrome extension) visit [Know More Client](https://github.com/sayak1
 
 ## Flow Diagram
 
-![Flow Diagram](images/flow_CNBl.jpg)
+![Flow Diagram](images/flow_km.jpg)
 
 ## Mockup
 
